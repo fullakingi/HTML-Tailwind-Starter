@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'daily-dev-tips': "#F89283"
+        'daily-dev-tips': "lime"
       }
     },
   },
